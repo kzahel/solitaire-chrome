@@ -1,7 +1,10 @@
-Was trying to play this one day. It says it's offline:
+Availabe in chrome web store:
+https://chrome.google.com/webstore/detail/offline-solitaire/pdfinaggbkfakleogpfmbphpnceloibm
 
-https://chrome.google.com/webstore/detail/offline-solitaire/ojldfpglenpceffckkjhajofdbpkfgmn
-http://offlinebrowsergames.appspot.com/index.html
+
+Was trying to play this one day. It says it's offline:
+(https://chrome.google.com/webstore/detail/offline-solitaire/ojldfpglenpceffckkjhajofdbpkfgmn
+http://offlinebrowsergames.appspot.com/index.html)
 
 But I got a 503 error server:
 ```
