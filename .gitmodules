@@ -1,0 +1,3 @@
+[submodule "OfflineBrowserGames"]
+	path = OfflineBrowserGames
+	url = git@github.com:kzahel/OfflineBrowserGames.git
