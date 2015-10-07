@@ -10,3 +10,6 @@ Over Quota
 This application is temporarily over its serving quota. Please try again later.
 ```
 
+So I made it actually work offline
+
+
