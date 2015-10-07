@@ -2,7 +2,7 @@
     "name": "Offline Solitaire",
     "description": "A Solitaire (Klondike) game that can be played with no internet connection.",
     "short_name": "Solitaire",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum_chrome_version": "38",
     "manifest_version": 2,
     "icons": { 
